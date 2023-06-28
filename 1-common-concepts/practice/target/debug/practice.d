@@ -1,0 +1,1 @@
+/home/rodrigo2107/Documentos/WWW/tutorials/rust/rust-learning/1-common-concepts/practice/target/debug/practice: /home/rodrigo2107/Documentos/WWW/tutorials/rust/rust-learning/1-common-concepts/practice/src/main.rs
